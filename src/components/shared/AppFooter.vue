@@ -29,7 +29,7 @@ export default {
 				class="flex flex-col justify-center items-center mb-12 sm:mb-20"
 			>
 				<p
-					class="font-general-semibold text-3xl sm:text-4xl font-semibold text-primary-dark dark:text-primary-light mb-5"
+					class="font-general-semibold text-5xl sm:text-4xl font-semibold text-primary-dark dark:text-primary-light mb-5"
 				>
 					Follow me
 				</p>
