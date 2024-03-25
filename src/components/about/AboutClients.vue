@@ -7,21 +7,21 @@ export default {
 	},
 	data: () => {
 		return {
-			clientsHeading: 'Some of the brands I have worked with',
+			clientsHeading: 'Algumas empresas que eu trabalhei',
 			clients: [
 				{
 					id: 1,
-					title: 'Amazon',
+					title: 'Huawei',
 					img: require('@/assets/images/brands/huawei_logo.png'),
 				},
 				{
 					id: 2,
-					title: 'Sony',
+					title: 'Brasal',
           img: require('@/assets/images/brands/logo_brasal.png')
 				},
 				{
 					id: 3,
-					title: 'Adidas',
+					title: 'Banco Inter',
           img: require('@/assets/images/brands/banco-inter.webp')
 				},
 			],
